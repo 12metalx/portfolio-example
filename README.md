@@ -1,2 +1,2 @@
 # portfolio-example
-Creating my personal portflio
+Creating my personal portfolio
