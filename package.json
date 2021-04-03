@@ -1,0 +1,11 @@
+{
+  "name": "portfolio-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/12metalx/portfolio-example.git",
+  "author": "12metalx <perezozo79@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel": "^2.0.0-beta.2"
+  }
+}
