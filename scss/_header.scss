@@ -1,0 +1,24 @@
+@import "mixins";
+header{
+    width: 100vw;
+    background-color: #2f5d62;
+    //border: 1px solid #000;
+    color: #ffb037;
+    height: 3rem;
+    display: flex;
+    align-items: center;
+    .container{
+        @include container;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        nav{
+            a{
+                margin-left: 1rem;
+                color: #ffb037;
+                text-decoration: none;
+                font-weight: 700;
+            }
+        }
+    }
+}
